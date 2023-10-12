@@ -1,7 +1,1 @@
-12.10.2023 20:24:5 : meat -> 50 : purchase completed
-12.10.2023 20:24:17 : drinks -> 1000 : replenish completed
-12.10.2023 20:24:56 : vegetables -> -100 : replenish canceled
-12.10.2023 20:25:2 : vegetables -> 100 : replenish completed
-12.10.2023 20:25:23 : drinks -> 1000000 : purchase canceled
-12.10.2023 20:25:31 : drinks -> 100 : purchase completed
-12.10.2023 20:27:19 : meat -> 45453 : purchase canceled
+
